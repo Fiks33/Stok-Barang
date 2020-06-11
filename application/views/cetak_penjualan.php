@@ -8,9 +8,9 @@
 <body >
 	<div class="container">
 	<center>
-		<h4>BENGKEL MOTOR</h4>
-		<p>Jl. Kol Abunjani 10. 133 Sipin, Jambi</p>
-		<p>Telp. (0741)-612673</p>
+		<h4>Stock barang</h4>
+		<!--<p>Jl. Kol Abunjani 10. 133 Sipin, Jambi</p>
+		//<p>Telp. (0741)-612673</p>-->
 	</center>
 	<?php 
 	$rs = $data->row();

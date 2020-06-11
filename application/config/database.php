@@ -76,9 +76,9 @@ error_reporting(0);
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'db_storing',
+	'username' => 'id14044203_storing',
+	'password' => 'O^4ugu<(c~TnR(pm',
+	'database' => 'id14044203_db_storing',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

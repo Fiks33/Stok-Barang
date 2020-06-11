@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>BENGKEL TOMODACHI MOTOR</title>
+    <title>Stock Barang</title>
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
     <base href="<?php echo base_url();?>">
     <link rel="shortcut icon" href="favicon_16.ico"/>
@@ -49,7 +49,7 @@
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
-          <h5 style="color: lightblue">BENGKEL TOMODACHI MOTOR</h5>
+          <h5 style="color: lightblue">Stock Barang</h5>
           
         </div><!-- /.container-fluid -->
       </nav>
